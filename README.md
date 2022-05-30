@@ -17,3 +17,7 @@ Pyenv を使いたいときはお好みで。
 ## TODO
 
 - 1. 音声のグラフ化
+
+## 参考
+
+- [https://101010.fun/programming/python-fft-first-step.html]
