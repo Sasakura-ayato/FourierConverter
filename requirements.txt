@@ -1,4 +1,5 @@
 numpy
 matplotlib
+wave
 scipy
-librosa
+sounddevice
